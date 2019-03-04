@@ -35,6 +35,7 @@ choco install git -y
 choco install openssh -y
 choco install curl -y
 choco install python2 -y
+choco install openvpn -y
 choco install wget -y
 choco install prometheus-wmi-exporter.install -y
 choco install windirstat -y 
